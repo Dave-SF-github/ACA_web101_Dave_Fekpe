@@ -98,3 +98,6 @@ body {
     letter-spacing: 16px;
     font-style: italic;
   }
+  @media (min-width:720px) {
+    
+  }
