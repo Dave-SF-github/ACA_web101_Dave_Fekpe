@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+}
+.headcontainer {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+}
+#contact-information {
+    color:black;
+    background-color:silver;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+    padding: 20px;
+}
+p {
+    color: mediumslateblue;
+}
+.skills {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+}
+.first-job {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+}
+.second-job {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+}
+.education {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+}
+.organizations {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+}
+.languages {
+    background-color: rgb(39, 37, 37);
+    color: mediumslateblue;
+    border: solid rgb(65, 41, 202) 3px;
+    margin: 30px;
+    text-align: center;
+} 
+footer {
+    color: white;
+}
+.has-border {
+    margin: 0 5px 0 0;
+}
