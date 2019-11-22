@@ -1,8 +1,45 @@
-@media (max-width: 480px) {
+@media (max-width:768px) {
         .logo {
+          display: none;
+        }
+        nav {
+          margin: 0px 300px 0px 320px;
+        }
+        .has-border {
+           padding: 40px;
+           margin: 10px 10px 10px 10px;  
+        }
+        body {
+                background: silver;
+        }
+        button {
                 display: none;
+      
         }
-        header {
-                display: flex lign-content;
+      
         }
-}
+        @media (max-width:576px) {
+          nav { 
+            margin: 0px 250px;
+          }
+          .has-border {
+            padding:30px;
+            font-size: 12px;
+          }
+          body{
+            background: black;
+          }
+          .has-border {
+            color: white;
+          }
+          h1 {
+            color: white;
+          }
+          h2 {
+            display: none;
+          }
+          .small-text {
+            color:white;
+          }
+      
+        }
